@@ -1,3 +1,2 @@
 #memcached-impl
-
-memcached本地实现
+java 调用memcached demo,请先使用maven构建
